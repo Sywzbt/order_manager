@@ -1,0 +1,60 @@
+[
+    {
+        "order_id": "A001",
+        "customer": "qwe",
+        "items": [
+            {
+                "name": "阿姆斯特朗回旋加速噴氣式阿姆斯特朗砲",
+                "price": 100000,
+                "quantity": 300
+            },
+            {
+                "name": "強襲鋼彈",
+                "price": 100000000,
+                "quantity": 3
+            },
+            {
+                "name": "學分",
+                "price": 1450,
+                "quantity": 30
+            }
+        ]
+    },
+    {
+        "order_id": "A002",
+        "customer": "zxc",
+        "items": [
+            {
+                "name": "美妙寵物光之美少女BD",
+                "price": 30000,
+                "quantity": 3
+            },
+            {
+                "name": "魔法使光之美少女2 ~Mirai Days~BD",
+                "price": 7000,
+                "quantity": 3
+            },
+            {
+                "name": "偶像大師閃耀色彩7周年演唱會",
+                "price": 1,
+                "quantity": 7000
+            }
+        ]
+    },
+    {
+        "order_id": "A003",
+        "customer": "POI",
+        "items": [
+            {
+                "name": "祕密的美妙公主BD",
+                "price": 7000,
+                "quantity": 3
+            },
+            {
+                "name": "愛噗麗手環",
+                "price": 1000,
+                "quantity": 9999999999
+            }
+        ]
+    }
+]
